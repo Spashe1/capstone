@@ -1,6 +1,17 @@
 header {
     color:deeppink;
+    border: 10px;
+    margin:10px;
 }
+
+nav { 
+    font-size: larger;
+}
+#container {
+    background-image:"./images/pic4.png;"
+}
+    
+
 
 
 
