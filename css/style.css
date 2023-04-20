@@ -11,8 +11,16 @@ nav {
     background-image:"./images/pic4.png;"
 }
     
+.card-grp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
+.cards {
+    flex-direction: row;
+    align-content: flex-end;
+}
 
 
 
