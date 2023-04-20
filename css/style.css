@@ -1,7 +1,8 @@
 header {
-    color:deeppink;
+    color:black;
     border: 10px;
     margin:10px;
+    background-color:pink;
 }
 
 nav { 
